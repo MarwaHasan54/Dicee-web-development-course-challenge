@@ -1,1 +1,1 @@
-# Diece-web-development-course-chalenge
+# Dicee-web-development-course-challenge
